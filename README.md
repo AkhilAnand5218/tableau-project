@@ -1,0 +1,1 @@
+This interactive dashboard delivers a holistic view of Tesla’s market performance, weaving together sales data, pricing patterns, recall metrics, battery comparisons, and regional trends. Built in Tableau Public Edition, it transforms raw data into actionable insights with a clean, compelling visual narrative.
